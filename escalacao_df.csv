@@ -1,0 +1,24 @@
+,Camisa,GPS,Identificação,Posição,Titular
+0,1,1,#VALUE!,Goleiro,True
+1,2,2,#VALUE!,Lateral Direito,True
+2,3,3,#VALUE!,Zagueiro,True
+3,4,4,#VALUE!,Zagueiro,True
+4,5,5,#VALUE!,Volante,True
+5,6,6,#VALUE!,Lateral Esquerdo,True
+6,7,7,#VALUE!,Atacante,True
+7,8,8,#VALUE!,Meio-Campo,True
+8,9,9,#VALUE!,Atacante,True
+9,10,10,#VALUE!,Meio-Campo,True
+10,11,11,#VALUE!,Atacante,True
+11,12,12,#VALUE!,Goleiro,False
+12,13,13,#VALUE!,Lateral Direito,False
+13,14,14,#VALUE!,Zagueiro,False
+14,15,15,#VALUE!,Volante,False
+15,16,16,#VALUE!,Lateral Esquerdo,False
+16,17,17,#VALUE!,Meio-Campo,False
+17,18,18,#VALUE!,Meio-Campo,False
+18,19,19,#VALUE!,Meio-Campo,False
+19,20,20,#VALUE!,Zagueiro,False
+20,21,21,#VALUE!,Lateral Direito,False
+21,22,35,#VALUE!,Atacante,False
+22,23,22,#VALUE!,Meio-Campo,False
